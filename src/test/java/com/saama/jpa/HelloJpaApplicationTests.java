@@ -1,4 +1,4 @@
-package com.hellokoding.jpa;
+package com.saama.jpa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
